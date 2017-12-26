@@ -1,0 +1,87 @@
+Add 1
+Add 2
+Add 3
+PrintBST
+Add 3
+Add 2
+Add 1
+PrintBST
+Remove 5
+Remove 4
+PrintBST
+Remove 3
+PrintBST
+Remove 2
+PrintBST
+Remove 3
+Remove 2
+PrintBST
+Remove 1
+PrintBST
+Add 8
+Add 12
+Add 14
+Add 15
+Add 13
+Add 10
+Add 11
+Add 9
+Add 4
+Add 6
+Add 5
+Add 7
+Add 2
+Add 3
+Add 1
+PrintBST
+Clear
+Add 1
+Add 2
+Add 3
+Add 4
+Add 5
+Add 6
+Add 7
+Add 8
+Add 9
+Add 10
+Add 11
+Add 12
+Add 13
+Add 14
+Add 15
+PrintBST
+Clear
+Add 15
+Add 14
+Add 7
+Add 5
+Add 9
+Add 3
+Add 6
+Add 8
+Add 12
+Add 1
+Add 11
+Add 13
+Add 2
+Add 10
+PrintBST
+Remove 3
+PrintBST
+Remove 5
+PrintBST
+Remove 2
+PrintBST
+Remove 8
+PrintBST
+Remove 9
+PrintBST
+Remove 7
+PrintBST
+Remove 1
+PrintBST
+Remove 6
+PrintBST
+Remove 14
+PrintBST

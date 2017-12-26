@@ -1,0 +1,242 @@
+Add -50
+Add -49
+Add -48
+Add -47
+Add -46
+Add -45
+PrintBST
+Add -44
+Add -43
+Add -42
+Add -41
+Add -40
+PrintBST
+Add -39
+Add -38
+Add -37
+Add -36
+Add -35
+PrintBST
+Add -34
+Add -33
+Add -32
+Add -31
+Add -30
+PrintBST
+Add -29
+Add -28
+Add -27
+Add -26
+Add -25
+PrintBST
+Add -24
+Add -23
+Add -22
+Add -21
+Add -20
+PrintBST
+Add -19
+Add -18
+Add -17
+Add -16
+Add -15
+PrintBST
+Add -14
+Add -13
+Add -12
+Add -11
+Add -10
+PrintBST
+Add -9
+Add -8
+Add -7
+Add -6
+Add -5
+PrintBST
+Add -4
+Add -3
+Add -2
+Add -1
+Add -0
+PrintBST
+Add 1
+Add 2
+Add 3
+Add 4
+Add 5
+PrintBST
+Add 6
+Add 7
+Add 8
+Add 9
+Add 10
+PrintBST
+Add 11
+Add 12
+Add 13
+Add 14
+Add 15
+PrintBST
+Add 16
+Add 17
+Add 18
+Add 19
+Add 20
+PrintBST
+Add 21
+Add 22
+Add 23
+Add 24
+Add 25
+PrintBST
+Add 26
+Add 27
+Add 28
+Add 29
+Add 30
+PrintBST
+Add 31
+Add 32
+Add 33
+Add 34
+Add 35
+PrintBST
+Add 36
+Add 37
+Add 38
+Add 39
+Add 40
+PrintBST
+Add 41
+Add 42
+Add 43
+Add 44
+Add 45
+PrintBST
+Add 46
+Add 47
+Add 48
+Add 49
+Add 50
+PrintBST
+Remove -50
+Remove -49
+Remove -48
+Remove -47
+Remove -46
+Remove -45
+PrintBST
+Remove 44
+Remove -43
+Remove -42
+Remove -41
+Remove -40
+PrintBST
+Remove -39
+Remove -38
+Remove -37
+Remove -36
+Remove -35
+PrintBST
+Remove -34
+Remove -33
+Remove -32
+Remove -31
+Remove -30
+PrintBST
+Remove -29
+Remove -28
+Remove -27
+Remove -26
+Remove -25
+PrintBST
+Remove -24
+Remove -23
+Remove -22
+Remove -21
+Remove -20
+PrintBST
+Remove -19
+Remove -18
+Remove -17
+Remove -16
+Remove -15
+PrintBST
+Remove -14
+Remove -13
+Remove -12
+Remove -11
+Remove -10
+PrintBST
+Remove -9
+Remove -8
+Remove -7
+Remove -6
+Remove -5
+PrintBST
+Remove -4
+Remove -3
+Remove -2
+Remove -1
+Remove -0
+PrintBST
+Remove 1
+Remove 2
+Remove 3
+Remove 4
+Remove 5
+PrintBST
+Remove 6
+Remove 7
+Remove 8
+Remove 9
+Remove 10
+PrintBST
+Remove 11
+Remove 12
+Remove 13
+Remove 14
+Remove 15
+PrintBST
+Remove 16
+Remove 17
+Remove 18
+Remove 19
+Remove 20
+PrintBST
+Remove 21
+Remove 22
+Remove 23
+Remove 24
+Remove 25
+PrintBST
+Remove 26
+Remove 27
+Remove 28
+Remove 29
+Remove 30
+PrintBST
+Remove 31
+Remove 32
+Remove 33
+Remove 34
+Remove 35
+PrintBST
+Remove 36
+Remove 37
+Remove 38
+Remove 39
+Remove 40
+PrintBST
+Remove 41
+Remove 42
+Remove 43
+Remove 44
+Remove 45
+PrintBST
+Remove 46
+Remove 47
+Remove 48
+Remove 49
+Remove 50
+PrintBST

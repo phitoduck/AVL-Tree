@@ -1,0 +1,30 @@
+Add 1
+Add 2
+Add 3
+PrintBST
+Add 4
+Add 5
+Add 6
+Add 10
+PrintBST
+Add 8
+Add 7
+Add 9
+PrintBST
+Remove 11
+Remove 10
+Remove 9
+Remove 6
+PrintBST
+Remove 8
+Remove 7
+PrintBST
+Remove 5
+Remove 4
+Remove 3
+Remove 2
+PrintBST
+Remove 1
+PrintBST
+Clear
+PrintBST
